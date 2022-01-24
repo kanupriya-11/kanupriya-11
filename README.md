@@ -86,11 +86,11 @@
 
 ## **Connect with me:**
 <p align="center">
-   <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/70/000000/linkedin.png"/></a>
-   <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/color/70/000000/gmail-new.png"/></a>
-   <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/material-sharp/70/000000/github.png"/></a>
+   <a href = "https://www.linkedin.com/in/kanupriya-prajapati-197842196/"><img src="https://img.icons8.com/fluent/70/000000/linkedin.png"/></a>
+   <a href = "kanupriya002@gmail.com"><img src="https://img.icons8.com/color/70/000000/gmail-new.png"/></a>
+   <a href = "https://github.com/kanupriya-11"><img src="https://img.icons8.com/material-sharp/70/000000/github.png"/></a>
    <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/70/000000/instagram-new.png"/></a>
-   <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/70/000000/youtube-play.png"/></a>
+   <a href = "https://www.youtube.com/channel/UCJslYjhCKTwyuckPuJK6Kpw"><img src="https://img.icons8.com/color/70/000000/youtube-play.png"/></a>
    <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/70/000000/twitter.png"/></a> -->
 </p>
 
