@@ -102,6 +102,6 @@
 <br><br>
 <div align="center">
 
-  ## **Made by Kanurpiya ❤️**
+  ## **Made by Kanupriya ❤️**
 
 </div>
