@@ -101,6 +101,10 @@
 <br>
 <br><br>
 <div align="center">
+  
+  **Visitor Count** <br> 
+
+![Visitor Count](https://profile-counter.glitch.me/uttusharma/count.svg)
 
   ## **Made by Kanupriya ❤️**
 
