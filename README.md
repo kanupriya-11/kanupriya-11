@@ -104,7 +104,7 @@
   
   **Visitor Count** <br> 
 
-![Visitor Count](https://profile-counter.glitch.me/uttusharma/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/kanupriya-1/count.svg)
 
   ## **Made by Kanupriya ❤️**
 
