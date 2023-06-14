@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="200" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kanupriya</h1>
-<h3 align="center">I'm a passionate Web Developer from India.</h3>
+<h3 align="center">I'm a passionate Developer from India.</h3>
 <br>
 
 ## **About Me**
