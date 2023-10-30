@@ -6,7 +6,7 @@
 
 ## **About Me**
 
-- 🔭 I’m a **Final year undergrad** pursuing B.Tech in **Computer Science!** 
+- 🔭 I’m a **Software Developer** working in **Capgemini** 
 
 - 🌱 I’m currently working in  **Front End Web Development.**
 
